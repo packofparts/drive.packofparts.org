@@ -1,0 +1,6 @@
+DirectoryIndex index.html
+
+RewriteEngine On
+RewriteBase /
+
+Redirect 301 / https://github.com/packofparts/drive.packofparts.org
